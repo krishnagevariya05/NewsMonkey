@@ -8,7 +8,7 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
 
 export class NavBar extends Component {
   static propTypes = {}
-
+//navbar.js
   render() {
     return (
       <div>
